@@ -1,5 +1,5 @@
 {
-    "name": "firevel/firebase-authentication",
+    "name": "quanganhquanganh/firebase-authentication",
     "description": "Firebase authentication driver for Laravel",
     "type": "library",
     "require": {
